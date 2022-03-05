@@ -1,6 +1,6 @@
 # Bayesian Belief Network Analysis Proposal
 
-This is a very empty GitHub page that will grow as we develop the project.
+This is a very empty GitHub page that will grow as we develop the project. An example of a more developed GitHub page is [here](<https://github.com/freyarowland/WoodFrogCode>)
 
 ## Contributors
 - Freya Rowland
@@ -8,7 +8,8 @@ This is a very empty GitHub page that will grow as we develop the project.
 - David Walters
 
 ## Software
-Still TBD. Deciding between open-source [BNlearn](<https://www.bnlearn.com/>) or more user-friendly (but ~$700) [Netica](<https://www.norsys.com/netica.html>)
+
+Comparing open-source [BNlearn](<https://www.bnlearn.com/>) and more user-friendly (but ~$700) [Netica](<https://www.norsys.com/netica.html>)
 
 ## Phase I: comprehensive literature review and development of guidelines for best practices in building BNs
 
