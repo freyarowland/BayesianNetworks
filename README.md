@@ -1,5 +1,7 @@
 # Bayesian Belief Network Analysis Proposal
 
+This is a very empty GitHub page that will grow as we develop the project.
+
 ## Contributors
 - Freya Rowland
 - Chris Kotalik
