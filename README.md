@@ -9,11 +9,9 @@ This is a very empty GitHub page that will grow as we develop the project. An ex
 
 ## Software
 
-Comparing open-source [BNlearn](<https://www.bnlearn.com/>) and more user-friendly (but ~$700) [Netica](<https://www.norsys.com/netica.html>)
+Comparing open-source [BNlearn](<https://www.bnlearn.com/>) and more user-friendly (but ~$700) [Netica](<https://www.norsys.com/netica.html>) BN learn has a [shiny app](<https://cran.r-project.org/web/packages/BayesianNetwork/vignettes/BayesianNetwork.html>) that is very well developed. 
 
-BN learn has a [shiny app](<https://cran.r-project.org/web/packages/BayesianNetwork/vignettes/BayesianNetwork.html>) that is very well developed. 
-
-Netica can also interface with the a [shiny app](<https://www.sciencedirect.com/science/article/pii/S136481521930221X>)
+Netica can also interface with a [shiny app](<https://www.sciencedirect.com/science/article/pii/S136481521930221X>)
 
 ## Phase I: comprehensive literature review and development of guidelines for best practices in building BNs
 
@@ -40,5 +38,4 @@ Netica can also interface with the a [shiny app](<https://www.sciencedirect.com/
 ## To do list
 
 - [ ] Test both types of software
-- [ ] Pick a site for case study
 - [ ] Make sure our proposal doesn't overlap too much with [Wayne Landis](<https://wp.wwu.edu/toxicology/faculty-staff/dr-wayne-g-landis/>)
