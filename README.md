@@ -33,7 +33,7 @@ Netica can also interface with a [shiny app](<https://www.sciencedirect.com/scie
 
 [Pompton Lakes](<https://archive.epa.gov/epa/newsreleases/epa-directs-dupont-remove-mercury-pompton-lake-pompton-lakes-new-jersey.html>) was suggested by Jo and is our currently front runner.
 - Advantage: Pompton Lakes is a Hg site and case team has several bird studies. Case manager is new and may have more bandwidth. 
-- Disadvantages: none?
+- Disadvantages: not settled yet.
 
 ## To do list
 
